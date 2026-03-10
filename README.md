@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-https://github.com/Attoher/tugas1-ppb-ath-thahir-muhammad-isa-rahmatullah.git
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/8af82f74-5387-4f63-8408-abcd98e6feb5" />
 
 ## Getting Started
 
